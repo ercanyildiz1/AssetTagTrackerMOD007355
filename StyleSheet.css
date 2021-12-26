@@ -1,0 +1,15 @@
+body {background-image: url('BACKGROUND_IMAGE.jpg');background-repeat: no-repeat;background-attachment: fixed;background-size: cover;}
+h1 {font-family:Impact; color:white; font-size: 75px ;}
+h2 {font-family:Impact; color:white; font-size: 45px;}
+h3 {color: white;}
+h4 {color: white;}
+h5 {color: white;}
+p {color: white;}
+a {font-weight: 900; font-family:FreeMono, monospace; color:white; font-size: 30px;}
+table {margin: .3em; width: 290px;}
+th {font-weight: 900; font-family:FreeMono, monospace; color:white; padding-left: .5em; padding-right: .5em; border: 2px solid #fff; background-color: #000;}
+td {font-weight: 900; font-family:FreeMono, monospace; color:white; padding-left: .5em; padding-right: .5em; border: 2px solid #fff; background-color: #000;}
+div {font-weight: 900; font-family:FreeMono, monospace; color:white; padding-left: .5em; padding-right: .5em; border: 2px solid #fff; background-color: #000;}
+input {font-weight: 900; font-family:FreeMono, monospace; color:white; padding-left: .5em; padding-right: .5em; border: 2px solid #fff; background-color: #000;}
+#trHeader {text-decoration: underline; color: #000;}
+.centerCell {text-align: center;}
